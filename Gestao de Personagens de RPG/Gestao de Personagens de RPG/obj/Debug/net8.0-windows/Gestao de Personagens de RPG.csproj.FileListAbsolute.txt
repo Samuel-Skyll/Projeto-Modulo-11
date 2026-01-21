@@ -1,0 +1,35 @@
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.exe
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.deps.json
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.runtimeconfig.json
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.dll
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.pdb
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao_de_Personagens_de_RPG.add_Personagem.resources
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao_de_Personagens_de_RPG.Form1.resources
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.csproj.GenerateResource.cache
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.AssemblyInfoInputs.cache
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.AssemblyInfo.cs
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.dll
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\refint\Gestao de Personagens de RPG.dll
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.pdb
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.genruntimeconfig.cache
+C:\Users\ESEN\source\repos\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\ref\Gestao de Personagens de RPG.dll
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.exe
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.deps.json
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.runtimeconfig.json
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.dll
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\bin\Debug\net8.0-windows\Gestao de Personagens de RPG.pdb
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao_de_Personagens_de_RPG.add_Personagem.resources
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao_de_Personagens_de_RPG.Form1.resources
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.csproj.GenerateResource.cache
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.AssemblyInfoInputs.cache
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.AssemblyInfo.cs
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.sourcelink.json
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.dll
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\refint\Gestao de Personagens de RPG.dll
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.pdb
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\Gestao de Personagens de RPG.genruntimeconfig.cache
+C:\Users\ESEN\source\repos\Projeto-Modulo-11\Gestao de Personagens de RPG\Gestao de Personagens de RPG\obj\Debug\net8.0-windows\ref\Gestao de Personagens de RPG.dll

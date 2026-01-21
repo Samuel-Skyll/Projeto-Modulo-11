@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add_Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\add_Personagem.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\add_Personagem.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\add_Personagem.cs",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\add_Personagem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:40:50.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Form1.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Form1.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Form1.cs",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:43:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Form1.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Form1.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Form1.cs [Design]",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:33:32.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add_Personagem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\add_Personagem.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\add_Personagem.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\add_Personagem.cs [Design]",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\add_Personagem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:06:44.081Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
