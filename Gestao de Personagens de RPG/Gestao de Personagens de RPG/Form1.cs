@@ -7,15 +7,13 @@ namespace Gestao_de_Personagens_de_RPG
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            add_Personagem Form = new add_Personagem();
-            Form.ShowDialog();
-        }
+        
 
-        private void btn_Sair_Click(object sender, EventArgs e)
+      
+
+        private void Form1_Load(object sender, EventArgs e)
         {
-            Application.Exit();
+
         }
     }
 }

@@ -17,7 +17,9 @@ namespace Gestao_de_Personagens_de_RPG
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
         }

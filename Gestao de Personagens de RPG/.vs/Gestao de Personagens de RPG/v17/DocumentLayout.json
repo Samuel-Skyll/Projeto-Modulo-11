@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,12 +15,24 @@
       "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\add_personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|c:\\users\\esen\\source\\repos\\projeto-modulo-11\\gestao de personagens de rpg\\gestao de personagens de rpg\\arqueiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E6321D-24B7-4D0D-9776-2E445482A4A7}|Gestao de Personagens de RPG\\Gestao de Personagens de RPG.csproj|solutionrelative:gestao de personagens de rpg\\arqueiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Jogador.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Jogador.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Jogador.cs",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T21:18:21.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guerreiro.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Guerreiro.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Guerreiro.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Guerreiro.cs",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\Guerreiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T21:15:09.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Arqueiro.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Arqueiro.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Arqueiro.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Arqueiro.cs",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\Arqueiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T21:12:57.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Personagem.cs",
+              "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Personagem.cs",
+              "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Personagem.cs",
+              "RelativeToolTip": "Gestao de Personagens de RPG\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T21:11:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "add_Personagem.cs",
               "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\add_Personagem.cs",
               "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\add_Personagem.cs",
               "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\add_Personagem.cs",
               "RelativeToolTip": "Gestao de Personagens de RPG\\add_Personagem.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T12:40:50.489Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
@@ -53,14 +121,14 @@
               "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Form1.cs",
               "ToolTip": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Form1.cs",
               "RelativeToolTip": "Gestao de Personagens de RPG\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T12:43:15.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\Form1.cs",
               "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\Form1.cs",
@@ -72,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "add_Personagem.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ESEN\\source\\repos\\Projeto-Modulo-11\\Gestao de Personagens de RPG\\Gestao de Personagens de RPG\\add_Personagem.cs",
               "RelativeDocumentMoniker": "Gestao de Personagens de RPG\\add_Personagem.cs",

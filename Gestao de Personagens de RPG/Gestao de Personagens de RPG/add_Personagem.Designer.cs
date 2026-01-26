@@ -48,8 +48,8 @@
             label9 = new Label();
             textBox7 = new TextBox();
             dateTimePicker1 = new DateTimePicker();
-            button1 = new Button();
             button2 = new Button();
+            btnCancelar = new Button();
             SuspendLayout();
             // 
             // label1
@@ -167,7 +167,7 @@
             // label8
             // 
             label8.AutoSize = true;
-            label8.Location = new Point(498, 44);
+            label8.Location = new Point(476, 39);
             label8.Name = "label8";
             label8.Size = new Size(50, 15);
             label8.TabIndex = 17;
@@ -183,7 +183,7 @@
             // label9
             // 
             label9.AutoSize = true;
-            label9.Location = new Point(498, 95);
+            label9.Location = new Point(476, 98);
             label9.Name = "label9";
             label9.Size = new Size(35, 15);
             label9.TabIndex = 19;
@@ -204,16 +204,6 @@
             dateTimePicker1.Size = new Size(108, 23);
             dateTimePicker1.TabIndex = 21;
             // 
-            // button1
-            // 
-            button1.Location = new Point(288, 322);
-            button1.Name = "button1";
-            button1.Size = new Size(105, 46);
-            button1.TabIndex = 22;
-            button1.Text = "CANCELAR";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
-            // 
             // button2
             // 
             button2.Location = new Point(476, 322);
@@ -223,13 +213,23 @@
             button2.Text = "CRIAR";
             button2.UseVisualStyleBackColor = true;
             // 
+            // btnCancelar
+            // 
+            btnCancelar.Location = new Point(255, 322);
+            btnCancelar.Name = "btnCancelar";
+            btnCancelar.Size = new Size(105, 46);
+            btnCancelar.TabIndex = 24;
+            btnCancelar.Text = "CANCELAR";
+            btnCancelar.UseVisualStyleBackColor = true;
+            btnCancelar.Click += btnCancelar_Click;
+            // 
             // add_Personagem
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnCancelar);
             Controls.Add(button2);
-            Controls.Add(button1);
             Controls.Add(dateTimePicker1);
             Controls.Add(textBox7);
             Controls.Add(label9);
@@ -275,7 +275,7 @@
         private Label label9;
         private TextBox textBox7;
         private DateTimePicker dateTimePicker1;
-        private Button button1;
         private Button button2;
+        private Button btnCancelar;
     }
 }
