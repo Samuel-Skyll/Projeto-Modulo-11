@@ -31,31 +31,29 @@
             components = new System.ComponentModel.Container();
             label1 = new Label();
             label2 = new Label();
-            textBox1 = new TextBox();
-            label3 = new Label();
-            label4 = new Label();
+            txt_Nome = new TextBox();
+            lb_Classe = new Label();
             contextMenuStrip1 = new ContextMenuStrip(components);
-            textBox4 = new TextBox();
-            label5 = new Label();
-            label6 = new Label();
-            textBox5 = new TextBox();
-            textBox6 = new TextBox();
-            comboBox1 = new ComboBox();
+            cmb_Classe = new ComboBox();
             label7 = new Label();
             comboBox2 = new ComboBox();
-            label8 = new Label();
-            textBox3 = new TextBox();
-            label9 = new Label();
-            textBox7 = new TextBox();
             dateTimePicker1 = new DateTimePicker();
-            button2 = new Button();
+            btn_Salvar = new Button();
             btnCancelar = new Button();
+            errorProvider1 = new ErrorProvider(components);
+            lb_Vida = new Label();
+            nud_Vida = new NumericUpDown();
+            lb_Level = new Label();
+            nud_Level = new NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)nud_Vida).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)nud_Level).BeginInit();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(78, 87);
+            label1.Location = new Point(78, 36);
             label1.Name = "label1";
             label1.Size = new Size(42, 15);
             label1.TabIndex = 0;
@@ -64,93 +62,46 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(28, 136);
+            label2.Location = new Point(450, 36);
             label2.Name = "label2";
             label2.Size = new Size(131, 15);
             label2.TabIndex = 1;
             label2.Text = "DATA DE NASCIMENTO";
             // 
-            // textBox1
+            // txt_Nome
             // 
-            textBox1.Location = new Point(165, 87);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(195, 23);
-            textBox1.TabIndex = 2;
+            txt_Nome.Location = new Point(165, 36);
+            txt_Nome.Name = "txt_Nome";
+            txt_Nome.Size = new Size(195, 23);
+            txt_Nome.TabIndex = 2;
             // 
-            // label3
+            // lb_Classe
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(476, 203);
-            label3.Name = "label3";
-            label3.Size = new Size(47, 15);
-            label3.TabIndex = 4;
-            label3.Text = "CLASSE";
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(78, 44);
-            label4.Name = "label4";
-            label4.Size = new Size(18, 15);
-            label4.TabIndex = 6;
-            label4.Text = "ID";
+            lb_Classe.AutoSize = true;
+            lb_Classe.Location = new Point(78, 86);
+            lb_Classe.Name = "lb_Classe";
+            lb_Classe.Size = new Size(47, 15);
+            lb_Classe.TabIndex = 4;
+            lb_Classe.Text = "CLASSE";
             // 
             // contextMenuStrip1
             // 
             contextMenuStrip1.Name = "contextMenuStrip1";
             contextMenuStrip1.Size = new Size(61, 4);
             // 
-            // textBox4
+            // cmb_Classe
             // 
-            textBox4.Location = new Point(165, 44);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(195, 23);
-            textBox4.TabIndex = 9;
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Location = new Point(78, 180);
-            label5.Name = "label5";
-            label5.Size = new Size(38, 15);
-            label5.TabIndex = 10;
-            label5.Text = "NIVEL";
-            // 
-            // label6
-            // 
-            label6.AutoSize = true;
-            label6.Location = new Point(78, 230);
-            label6.Name = "label6";
-            label6.Size = new Size(33, 15);
-            label6.TabIndex = 11;
-            label6.Text = "VIDA";
-            // 
-            // textBox5
-            // 
-            textBox5.Location = new Point(165, 218);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(195, 23);
-            textBox5.TabIndex = 13;
-            // 
-            // textBox6
-            // 
-            textBox6.Location = new Point(165, 172);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(195, 23);
-            textBox6.TabIndex = 12;
-            // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(563, 195);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(195, 23);
-            comboBox1.TabIndex = 14;
+            cmb_Classe.FormattingEnabled = true;
+            cmb_Classe.Location = new Point(165, 83);
+            cmb_Classe.Name = "cmb_Classe";
+            cmb_Classe.Size = new Size(195, 23);
+            cmb_Classe.TabIndex = 14;
+            cmb_Classe.SelectedIndexChanged += cmb_Classe_SelectedIndexChanged;
             // 
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(476, 149);
+            label7.Location = new Point(476, 83);
             label7.Name = "label7";
             label7.Size = new Size(35, 15);
             label7.TabIndex = 15;
@@ -159,59 +110,28 @@
             // comboBox2
             // 
             comboBox2.FormattingEnabled = true;
-            comboBox2.Location = new Point(563, 149);
+            comboBox2.Location = new Point(559, 80);
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(195, 23);
             comboBox2.TabIndex = 16;
             // 
-            // label8
-            // 
-            label8.AutoSize = true;
-            label8.Location = new Point(476, 39);
-            label8.Name = "label8";
-            label8.Size = new Size(50, 15);
-            label8.TabIndex = 17;
-            label8.Text = "ALTURA";
-            // 
-            // textBox3
-            // 
-            textBox3.Location = new Point(563, 36);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(195, 23);
-            textBox3.TabIndex = 18;
-            // 
-            // label9
-            // 
-            label9.AutoSize = true;
-            label9.Location = new Point(476, 98);
-            label9.Name = "label9";
-            label9.Size = new Size(35, 15);
-            label9.TabIndex = 19;
-            label9.Text = "PESO";
-            // 
-            // textBox7
-            // 
-            textBox7.Location = new Point(563, 95);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(195, 23);
-            textBox7.TabIndex = 20;
-            // 
             // dateTimePicker1
             // 
             dateTimePicker1.Format = DateTimePickerFormat.Short;
-            dateTimePicker1.Location = new Point(165, 130);
+            dateTimePicker1.Location = new Point(601, 28);
             dateTimePicker1.Name = "dateTimePicker1";
             dateTimePicker1.Size = new Size(108, 23);
             dateTimePicker1.TabIndex = 21;
             // 
-            // button2
+            // btn_Salvar
             // 
-            button2.Location = new Point(476, 322);
-            button2.Name = "button2";
-            button2.Size = new Size(105, 46);
-            button2.TabIndex = 23;
-            button2.Text = "CRIAR";
-            button2.UseVisualStyleBackColor = true;
+            btn_Salvar.Location = new Point(476, 322);
+            btn_Salvar.Name = "btn_Salvar";
+            btn_Salvar.Size = new Size(105, 46);
+            btn_Salvar.TabIndex = 23;
+            btn_Salvar.Text = "CRIAR";
+            btn_Salvar.UseVisualStyleBackColor = true;
+            btn_Salvar.Click += btn_Salvar_Click;
             // 
             // btnCancelar
             // 
@@ -223,33 +143,68 @@
             btnCancelar.UseVisualStyleBackColor = true;
             btnCancelar.Click += btnCancelar_Click;
             // 
+            // errorProvider1
+            // 
+            errorProvider1.ContainerControl = this;
+            // 
+            // lb_Vida
+            // 
+            lb_Vida.AutoSize = true;
+            lb_Vida.Location = new Point(87, 141);
+            lb_Vida.Name = "lb_Vida";
+            lb_Vida.Size = new Size(33, 15);
+            lb_Vida.TabIndex = 25;
+            lb_Vida.Text = "VIDA";
+            // 
+            // nud_Vida
+            // 
+            nud_Vida.Location = new Point(165, 133);
+            nud_Vida.Name = "nud_Vida";
+            nud_Vida.Size = new Size(120, 23);
+            nud_Vida.TabIndex = 26;
+            nud_Vida.ValueChanged += nud_Vida_ValueChanged;
+            // 
+            // lb_Level
+            // 
+            lb_Level.AutoSize = true;
+            lb_Level.Location = new Point(87, 185);
+            lb_Level.Name = "lb_Level";
+            lb_Level.Size = new Size(38, 15);
+            lb_Level.TabIndex = 27;
+            lb_Level.Text = "LEVEL";
+            // 
+            // nud_Level
+            // 
+            nud_Level.Location = new Point(165, 177);
+            nud_Level.Name = "nud_Level";
+            nud_Level.Size = new Size(120, 23);
+            nud_Level.TabIndex = 28;
+            // 
             // add_Personagem
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(nud_Level);
+            Controls.Add(lb_Level);
+            Controls.Add(nud_Vida);
+            Controls.Add(lb_Vida);
             Controls.Add(btnCancelar);
-            Controls.Add(button2);
+            Controls.Add(btn_Salvar);
             Controls.Add(dateTimePicker1);
-            Controls.Add(textBox7);
-            Controls.Add(label9);
-            Controls.Add(textBox3);
-            Controls.Add(label8);
             Controls.Add(comboBox2);
             Controls.Add(label7);
-            Controls.Add(comboBox1);
-            Controls.Add(textBox5);
-            Controls.Add(textBox6);
-            Controls.Add(label6);
-            Controls.Add(label5);
-            Controls.Add(textBox4);
-            Controls.Add(label4);
-            Controls.Add(label3);
-            Controls.Add(textBox1);
+            Controls.Add(cmb_Classe);
+            Controls.Add(lb_Classe);
+            Controls.Add(txt_Nome);
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "add_Personagem";
             Text = "add_Personagem";
+            Load += add_Personagem_Load;
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)nud_Vida).EndInit();
+            ((System.ComponentModel.ISupportInitialize)nud_Level).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -258,24 +213,19 @@
 
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
-        private Label label3;
-        private Label label4;
+        private TextBox txt_Nome;
+        private Label lb_Classe;
         private ContextMenuStrip contextMenuStrip1;
-        private TextBox textBox4;
-        private Label label5;
-        private Label label6;
-        private TextBox textBox5;
-        private TextBox textBox6;
-        private ComboBox comboBox1;
+        private ComboBox cmb_Classe;
         private Label label7;
         private ComboBox comboBox2;
-        private Label label8;
-        private TextBox textBox3;
-        private Label label9;
-        private TextBox textBox7;
         private DateTimePicker dateTimePicker1;
-        private Button button2;
+        private Button btn_Salvar;
         private Button btnCancelar;
+        private ErrorProvider errorProvider1;
+        private NumericUpDown nud_Vida;
+        private Label lb_Vida;
+        private NumericUpDown nud_Level;
+        private Label lb_Level;
     }
 }

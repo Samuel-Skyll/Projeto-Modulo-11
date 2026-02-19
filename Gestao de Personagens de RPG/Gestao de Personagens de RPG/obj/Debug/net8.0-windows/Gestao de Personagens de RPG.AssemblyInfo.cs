@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestao de Personagens de RPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e8c37b04b5543c413289aaab5fb47050d737b0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+675569345c62b806154e75c4da986402362b0ffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestao de Personagens de RPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestao de Personagens de RPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

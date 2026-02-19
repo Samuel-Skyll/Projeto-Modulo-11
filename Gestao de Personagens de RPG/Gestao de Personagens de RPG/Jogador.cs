@@ -12,6 +12,9 @@ namespace Gestao_de_Personagens_de_RPG
         public string Nome;
         public string NickName;
 
-        BindingList<Personagem> LP = new BindingList<Personagem>();
+        public BindingList<Personagem> LP = new BindingList<Personagem>();
+        
     }
+
+
 }

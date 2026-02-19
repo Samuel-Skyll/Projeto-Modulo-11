@@ -34,6 +34,7 @@
             textBox2 = new TextBox();
             groupBox1 = new GroupBox();
             dataGridView1 = new DataGridView();
+            btn_Add = new Button();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
@@ -87,12 +88,24 @@
             dataGridView1.Name = "dataGridView1";
             dataGridView1.Size = new Size(609, 227);
             dataGridView1.TabIndex = 0;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
+            // btn_Add
+            // 
+            btn_Add.Location = new Point(695, 176);
+            btn_Add.Name = "btn_Add";
+            btn_Add.Size = new Size(75, 23);
+            btn_Add.TabIndex = 6;
+            btn_Add.Text = "Adicionar";
+            btn_Add.UseVisualStyleBackColor = true;
+            btn_Add.Click += btn_Add_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btn_Add);
             Controls.Add(groupBox1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -114,5 +127,6 @@
         private TextBox textBox2;
         private GroupBox groupBox1;
         private DataGridView dataGridView1;
+        private Button btn_Add;
     }
 }
